@@ -1,0 +1,327 @@
+Current list activities:
+biking 1 3
+
+Activities biking and cinema are incompatible
+
+Current list activities:
+biking 1 3
+cinema 2 3
+
+Current list activities:
+biking 1 3
+cinema 2 3
+jogging 0 3
+gym 1 3
+
+Current list activities:
+biking 1 3
+cinema 2 3
+jogging 0 3
+gym 1 3
+swimming 2 3
+
+Activities jogging and gym are incompatible
+
+Activities gym and swimming are incompatible
+
+Activities cinema and swimming are incompatible
+
+Activities cinema and gym are incompatible
+
+Activities biking and jogging are incompatible
+
+Current list activities:
+biking 1 3
+cinema 2 3
+jogging 0 3
+gym 1 3
+swimming 2 3
+chatting 0 1
+climbing 1 2
+reading 0 1
+siteseeing 1 2
+
+Activities jogging and reading are incompatible
+
+Activities gym and climbing are incompatible
+
+Activities biking and reading are compatible
+
+Current list activities:
+biking 1 3
+cinema 2 3
+jogging 0 3
+gym 1 3
+swimming 2 3
+chatting 0 1
+climbing 1 2
+reading 0 1
+siteseeing 1 2
+strolling 0 1
+
+Activities jogging and reading are incompatible
+
+Activities biking and siteseeing are incompatible
+
+Activities climbing and bowling are compatible
+
+Current list activities:
+chatting 0 1
+reading 0 1
+strolling 0 1
+jogging 0 3
+climbing 1 2
+siteseeing 1 2
+biking 1 3
+gym 1 3
+cinema 2 3
+swimming 2 3
+bowling 0 1
+
+Activities climbing and gym are incompatible
+
+Current list activities:
+chatting 0 1
+reading 0 1
+strolling 0 1
+jogging 0 3
+climbing 1 2
+siteseeing 1 2
+biking 1 3
+gym 1 3
+cinema 2 3
+swimming 2 3
+bowling 0 1
+boxing 0 1
+
+Activities biking and bowling are compatible
+
+Current list activities:
+bowling 0 1
+boxing 0 1
+chatting 0 1
+reading 0 1
+strolling 0 1
+jogging 0 3
+climbing 1 2
+siteseeing 1 2
+writing 1 2
+biking 1 3
+flirting 1 3
+gym 1 3
+cinema 2 3
+swimming 2 3
+
+Activities reading and writing are compatible
+
+Current list activities:
+bowling 0 1
+boxing 0 1
+chatting 0 1
+reading 0 1
+strolling 0 1
+jogging 0 3
+climbing 1 2
+siteseeing 1 2
+writing 1 2
+biking 1 3
+flirting 1 3
+gym 1 3
+cinema 2 3
+swimming 2 3
+singing 1 2
+
+Activities boxing and strolling are incompatible
+
+Current list activities:
+bowling 0 1
+boxing 0 1
+chatting 0 1
+reading 0 1
+strolling 0 1
+jogging 0 3
+climbing 1 2
+siteseeing 1 2
+writing 1 2
+biking 1 3
+flirting 1 3
+gym 1 3
+cinema 2 3
+swimming 2 3
+singing 1 2
+dancing 1 3
+shopping 1 3
+
+Activities bowling and reading are incompatible
+
+Activities jogging and dancing are incompatible
+
+Current list activities:
+bowling 0 1
+boxing 0 1
+chatting 0 1
+reading 0 1
+strolling 0 1
+jogging 0 3
+climbing 1 2
+singing 1 2
+siteseeing 1 2
+writing 1 2
+biking 1 3
+dancing 1 3
+flirting 1 3
+gym 1 3
+shopping 1 3
+cinema 2 3
+swimming 2 3
+cooking 2 3
+
+Activities bowling and cooking are compatible
+
+Current list activities:
+bowling 0 1
+boxing 0 1
+chatting 0 1
+reading 0 1
+strolling 0 1
+jogging 0 3
+climbing 1 2
+singing 1 2
+siteseeing 1 2
+writing 1 2
+biking 1 3
+dancing 1 3
+flirting 1 3
+gym 1 3
+shopping 1 3
+cinema 2 3
+swimming 2 3
+cooking 2 3
+praying 1 3
+fishing 0 3
+
+Activities singing and cooking are compatible
+
+Current list activities:
+bowling 0 1
+boxing 0 1
+chatting 0 1
+reading 0 1
+strolling 0 1
+fishing 0 3
+jogging 0 3
+climbing 1 2
+singing 1 2
+siteseeing 1 2
+writing 1 2
+biking 1 3
+dancing 1 3
+flirting 1 3
+gym 1 3
+praying 1 3
+shopping 1 3
+cinema 2 3
+cooking 2 3
+swimming 2 3
+
+Current list activities:
+bowling 0 1
+boxing 0 1
+chatting 0 1
+reading 0 1
+strolling 0 1
+fishing 0 3
+hunting 0 3
+jogging 0 3
+climbing 1 2
+singing 1 2
+siteseeing 1 2
+writing 1 2
+biking 1 3
+dancing 1 3
+flirting 1 3
+gym 1 3
+praying 1 3
+shopping 1 3
+cinema 2 3
+cooking 2 3
+swimming 2 3
+
+Activities strolling and fishing are incompatible
+
+Activities reading and climbing are compatible
+
+Activities jogging and dancing are incompatible
+
+Activities flirting and praying are incompatible
+
+Activities climbing and shopping are incompatible
+
+Activities gym and shopping are incompatible
+
+Activities cinema and swimming are incompatible
+
+Activities strolling and praying are compatible
+
+Activities bowling and writing are compatible
+
+Activities strolling and climbing are compatible
+
+Activities chatting and gym are compatible
+
+Activities gym and praying are incompatible
+
+Activities chatting and reading are incompatible
+
+Activities boxing and writing are compatible
+
+Activities strolling and shopping are compatible
+
+Activities climbing and writing are incompatible
+
+Activities singing and cooking are compatible
+
+Activities writing and swimming are compatible
+
+Activities writing and shopping are incompatible
+
+Activities siteseeing and biking are incompatible
+
+Activities hunting and flirting are incompatible
+
+Activities hunting and praying are incompatible
+
+Activities chatting and reading are incompatible
+
+Activities boxing and cooking are compatible
+
+Activities praying and swimming are incompatible
+
+Activities fishing and writing are incompatible
+
+Activities boxing and hunting are incompatible
+
+Activities strolling and biking are compatible
+
+Activities bowling and siteseeing are compatible
+
+Activities climbing and writing are incompatible
+
+Activities bowling and jogging are incompatible
+
+Activities singing and praying are incompatible
+
+Activities siteseeing and shopping are incompatible
+
+Activities chatting and singing are compatible
+
+Activities chatting and writing are compatible
+
+Activities strolling and writing are compatible
+
+Activities fishing and flirting are incompatible
+
+Activities cooking and swimming are incompatible
+
+Activities boxing and cooking are compatible
+

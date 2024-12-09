@@ -1,0 +1,357 @@
+Current list activities:
+biking 169 277
+
+Current list activities:
+biking 169 277
+cinema 224 598
+
+Current list activities:
+biking 169 277
+cinema 224 598
+jogging 108 483
+
+Activities biking and cinema are incompatible
+
+Activities cinema and jogging are incompatible
+
+Current list activities:
+jogging 108 483
+biking 169 277
+cinema 224 598
+
+Activities cinema and gym are compatible
+
+Current list activities:
+jogging 108 483
+biking 169 277
+cinema 224 598
+gym 24 184
+swimming 218 574
+
+Current list activities:
+gym 24 184
+jogging 108 483
+chatting 161 501
+biking 169 277
+swimming 218 574
+cinema 224 598
+climbing 26 510
+
+Current list activities:
+gym 24 184
+jogging 108 483
+chatting 161 501
+biking 169 277
+swimming 218 574
+cinema 224 598
+climbing 26 510
+reading 207 303
+siteseeing 440 561
+
+Current list activities:
+gym 24 184
+jogging 108 483
+chatting 161 501
+biking 169 277
+swimming 218 574
+cinema 224 598
+climbing 26 510
+reading 207 303
+siteseeing 440 561
+strolling 318 385
+
+Current list activities:
+gym 24 184
+climbing 26 510
+jogging 108 483
+chatting 161 501
+biking 169 277
+reading 207 303
+swimming 218 574
+cinema 224 598
+strolling 318 385
+siteseeing 440 561
+
+Activities climbing and cinema are incompatible
+
+Current list activities:
+gym 24 184
+climbing 26 510
+jogging 108 483
+chatting 161 501
+biking 169 277
+reading 207 303
+swimming 218 574
+cinema 224 598
+strolling 318 385
+siteseeing 440 561
+bowling 413 553
+boxing 42 253
+
+Current list activities:
+gym 24 184
+climbing 26 510
+jogging 108 483
+chatting 161 501
+biking 169 277
+reading 207 303
+swimming 218 574
+cinema 224 598
+strolling 318 385
+siteseeing 440 561
+bowling 413 553
+boxing 42 253
+writing 77 154
+
+Current list activities:
+gym 24 184
+climbing 26 510
+boxing 42 253
+writing 77 154
+jogging 108 483
+chatting 161 501
+biking 169 277
+reading 207 303
+swimming 218 574
+cinema 224 598
+strolling 318 385
+bowling 413 553
+siteseeing 440 561
+flirting 84 320
+
+Activities biking and reading are incompatible
+
+Current list activities:
+gym 24 184
+climbing 26 510
+boxing 42 253
+writing 77 154
+jogging 108 483
+chatting 161 501
+biking 169 277
+reading 207 303
+swimming 218 574
+cinema 224 598
+strolling 318 385
+bowling 413 553
+siteseeing 440 561
+flirting 84 320
+singing 281 548
+
+Activities jogging and cinema are incompatible
+
+Activities climbing and chatting are incompatible
+
+Activities reading and swimming are incompatible
+
+Current list activities:
+gym 24 184
+climbing 26 510
+boxing 42 253
+writing 77 154
+jogging 108 483
+chatting 161 501
+biking 169 277
+reading 207 303
+swimming 218 574
+cinema 224 598
+strolling 318 385
+bowling 413 553
+siteseeing 440 561
+flirting 84 320
+singing 281 548
+dancing 398 498
+shopping 28 58
+
+Activities writing and chatting are compatible
+
+Activities gym and flirting are incompatible
+
+Activities jogging and dancing are incompatible
+
+Current list activities:
+gym 24 184
+climbing 26 510
+shopping 28 58
+boxing 42 253
+writing 77 154
+flirting 84 320
+jogging 108 483
+chatting 161 501
+biking 169 277
+reading 207 303
+swimming 218 574
+cinema 224 598
+singing 281 548
+strolling 318 385
+dancing 398 498
+bowling 413 553
+siteseeing 440 561
+cooking 182 530
+
+Current list activities:
+gym 24 184
+climbing 26 510
+shopping 28 58
+boxing 42 253
+praying 54 433
+writing 77 154
+flirting 84 320
+jogging 108 483
+chatting 161 501
+biking 169 277
+cooking 182 530
+reading 207 303
+swimming 218 574
+cinema 224 598
+singing 281 548
+strolling 318 385
+dancing 398 498
+bowling 413 553
+siteseeing 440 561
+fishing 435 599
+
+Activities biking and singing are compatible
+
+Activities gym and jogging are incompatible
+
+Current list activities:
+gym 24 184
+climbing 26 510
+shopping 28 58
+boxing 42 253
+praying 54 433
+writing 77 154
+flirting 84 320
+jogging 108 483
+chatting 161 501
+biking 169 277
+cooking 182 530
+reading 207 303
+swimming 218 574
+cinema 224 598
+singing 281 548
+strolling 318 385
+dancing 398 498
+bowling 413 553
+fishing 435 599
+siteseeing 440 561
+
+Activities cooking and siteseeing are incompatible
+
+Activities cooking and bowling are incompatible
+
+Activities praying and siteseeing are compatible
+
+Current list activities:
+gym 24 184
+climbing 26 510
+shopping 28 58
+boxing 42 253
+praying 54 433
+writing 77 154
+flirting 84 320
+jogging 108 483
+chatting 161 501
+biking 169 277
+cooking 182 530
+reading 207 303
+swimming 218 574
+cinema 224 598
+singing 281 548
+strolling 318 385
+dancing 398 498
+bowling 413 553
+fishing 435 599
+siteseeing 440 561
+hunting 380 465
+
+Activities shopping and praying are incompatible
+
+Activities gym and bowling are compatible
+
+Activities reading and cinema are incompatible
+
+Activities writing and hunting are compatible
+
+Current list activities:
+gym 24 184
+climbing 26 510
+shopping 28 58
+boxing 42 253
+praying 54 433
+writing 77 154
+flirting 84 320
+jogging 108 483
+chatting 161 501
+biking 169 277
+cooking 182 530
+reading 207 303
+swimming 218 574
+cinema 224 598
+singing 281 548
+strolling 318 385
+hunting 380 465
+dancing 398 498
+bowling 413 553
+fishing 435 599
+siteseeing 440 561
+
+Activities climbing and singing are incompatible
+
+Activities jogging and singing are incompatible
+
+Activities jogging and singing are incompatible
+
+Activities climbing and cinema are incompatible
+
+Activities praying and swimming are incompatible
+
+Activities biking and swimming are incompatible
+
+Activities writing and chatting are compatible
+
+Activities chatting and strolling are incompatible
+
+Activities writing and jogging are incompatible
+
+Activities writing and reading are compatible
+
+Activities biking and cooking are incompatible
+
+Activities dancing and bowling are incompatible
+
+Activities climbing and biking are incompatible
+
+Activities boxing and bowling are compatible
+
+Activities writing and hunting are compatible
+
+Activities praying and dancing are incompatible
+
+Activities cooking and hunting are incompatible
+
+Activities chatting and dancing are incompatible
+
+Activities climbing and boxing are incompatible
+
+Activities dancing and siteseeing are incompatible
+
+Activities climbing and swimming are incompatible
+
+Activities chatting and cooking are incompatible
+
+Activities gym and boxing are incompatible
+
+Activities praying and reading are incompatible
+
+Activities praying and reading are incompatible
+
+Activities swimming and fishing are incompatible
+
+Activities gym and hunting are compatible
+
+Activities praying and reading are incompatible
+
+Activities biking and reading are incompatible
+
