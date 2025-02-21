@@ -35,6 +35,21 @@ int dico_search(const vector<int> &v, int l, int r, int n) {
     return mid; // Element found at index mid
 }
 
+// Function to perform Insertion Sort on the vector
+void insertion_sort(vector<int>& v) {
+    for (int i = 1; i < v.size(); ++i) {
+        int key = v[i]; // The current element to insert
+        int j = i - 1;
+
+        // Move elements of v[0..i-1], that are greater than key, to one position ahead
+        while (j >= 0 and v[j] > key) {
+            v[j + 1] = v[j];
+            --j;
+        }
+        v[j + 1] = key; // Place the key in the correct position
+    }
+}
+
 int main() {
     int size = 10;           // Desired number of elements in the vector
     int lower_bound = 1;     // Lower bound of the range
